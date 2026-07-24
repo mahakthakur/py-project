@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+ENV/
+
+# Environment variables & secrets
+.env
+
+# Node & Frontend builds
+node_modules/
+dist/
+build/
+
+# Caches & Databases
+*.db
+*.sqlite3
+course_cache.db
+
+# Uploads & User data
+uploaded_docs/
+uploaded_documents/
+uploads/
+
+# IDE
+.vscode/
